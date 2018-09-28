@@ -1,5 +1,5 @@
 
-print "Put a number and let's count to it ! "
+print "Put a number and let's farte to it ! "
 
 
 def print_num
